@@ -1,8 +1,8 @@
 ## Olá 👋, eu sou Caio dos Santos e a seguir um pouco do meu perfil:
 <div align="top">
   <a href="https://github.com/CaioodosSantos">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioodosSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioodosSantos&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioodosSantos&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioodosSantos&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
  <div style="display: inline_block"><br>
@@ -22,4 +22,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
   <a href = "mailto:ccaio.456@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-dos-santos-rodrigues-055060200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+</div>
 </div>
