@@ -1,4 +1,11 @@
 ## Olá 👋, eu sou Caio dos Santos e a seguir um pouco do meu perfil:
+
+<div class="wrapper">
+            <div class="typing-demo">
+              Hello there. I'm <b>Caio dos Santos</b>.
+            </div>          
+        </div>
+
 <div align="top">
   <a href="https://github.com/CaioodosSantos">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioodosSantos&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
