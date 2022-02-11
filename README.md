@@ -1,14 +1,8 @@
-<p align="center">
+<p align="top">
 <img src="header.svg" />
 </p>
 
 &nbsp;
-
-<div class="wrapper">
-            <div class="typing-demo">
-              Hello there. I'm <b>Caio dos Santos</b>.
-            </div>          
-        </div>
 
 <div align="top">
   <a href="https://github.com/CaioodosSantos">
