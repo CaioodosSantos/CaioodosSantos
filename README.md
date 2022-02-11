@@ -1,5 +1,11 @@
 ## Olá 👋, eu sou Caio dos Santos e a seguir um pouco do meu perfil:
 
+<p align="center">
+<img src="header.svg" />
+</p>
+
+&nbsp;
+
 <div class="wrapper">
             <div class="typing-demo">
               Hello there. I'm <b>Caio dos Santos</b>.
